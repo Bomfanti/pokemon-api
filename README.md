@@ -1,4 +1,4 @@
-<h1>Project Consuming <a href https://pokeapi.co>PokeAPI</a></h1
+<h1>Simple project Consuming <a href https://pokeapi.co>PokeAPI</a></h1
 
 # Getting Started with Create React App
 
