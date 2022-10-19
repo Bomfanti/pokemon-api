@@ -32,7 +32,7 @@ function App() {
       <h1>Pokemon</h1>
       <div className="pokemon-container">
       <div className="all-container">
-      {allPokemons.sort((a, b) => a.id > b.id ? 1 : -1).map((pokemon)  => 
+      {allPokemons.sort((a, b) => a.id > b.id ? 1 : -1).map((pokemon, index)  => 
         <PokemonThumbnails
           id = {pokemon.id}
           name = {pokemon.name}
